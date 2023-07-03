@@ -14,7 +14,7 @@ This project is a simple traffic light system built using an Arduino board and t
 2. Open the Arduino IDE and upload the code to the board.
 3. Power on the board and the traffic light system will begin cycling through the green, yellow, and red lights.
 # Video
-- check the following vedio to see the project simulation (link)[https://drive.google.com/file/d/1kDH_HnYG6IH1J--dvwyVasOZ8gk6RF3H/view?usp=sharing]
+- check the following vedio to see the project simulation [link](https://drive.google.com/file/d/1kDH_HnYG6IH1J--dvwyVasOZ8gk6RF3H/view?usp=sharing)
 # Contributing
 Contributions to this project are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
 
