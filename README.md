@@ -2,11 +2,11 @@
 This project is a simple traffic light system built using an Arduino board and three LEDs. The system simulates a traffic light by displaying a green light first, followed by a yellow light that flashes three times, and then a red light. This cycle repeats indefinitely.
 
 # Hardware Requirements
-Arduino board (Uno, Nano, or similar)
-Three LEDs (green, yellow, and red)
-Three 220 ohm resistors
-Breadboard or PCB for prototyping
-Jumper wires
+- Arduino board (Uno, Nano, or similar)
+- Three LEDs (green, yellow, and red)
+- Three 220 ohm resistors
+- Breadboard or PCB for prototyping
+- Jumper wires
 # Software Requirements
 Arduino IDE (or similar software for uploading code to the Arduino board)
 # How to Use
